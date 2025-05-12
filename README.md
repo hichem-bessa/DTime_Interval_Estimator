@@ -1,6 +1,6 @@
 # Vehicle Side-Slip Angle Estimation using a Discrete-Time Interval Estimator
 
-This repository contains a MATLAB implementation of a **Discrete-Time Interval Estimator** for estimating the **side-slip angle** and **yaw rate** of a ground vehicle. The algorithm is based on the work published in the 2022 IFAC World Congress by **Hichem Bessafa**.
+This repository contains a MATLAB implementation of a **Discrete-Time Interval Estimator** for estimating the **side-slip angle** and **yaw rate** of a ground vehicle. The algorithm is based on the work published in the 2022 IFAC World Congress.
 
 > 📖 Reference:  
 > H. Bessafa, “Discrete-Time Interval Estimator for Vehicle Side-Slip Angle Estimation,” *IFAC-PapersOnLine*, 2022.  
